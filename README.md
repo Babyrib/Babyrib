@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Babyrib
-- 👀 I’m interested in Web Development and Ethical Hacking
-- 🌱 I’m currently learning HTML,CSS,and Javascript
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning C, HTML,CSS,and Javascript
 - 💞️ I’m looking to collaborate on Github with other developers someday
-- 📫 You could reach me on q.weasel@yahoo.com
+- 📫 You could reach me on eadjei532@gmail.com
 
 <!---
 Babyrib/Babyrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
